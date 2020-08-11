@@ -1,6 +1,7 @@
 # Stationary Wavelet Transform PyTorch 
 
 This code provides support for computing the 2D stantionary discrete wavelet and its inverses, and passing gradients through using pytorch.
+It is modified base on https://github.com/fbcotter/pytorch_wavelets.
 
 ## How to use
 ```python
