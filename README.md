@@ -1,1 +1,1 @@
-# Stationary-Wavelet-Transform-PyTorch-
+# Stationary Wavelet Transform PyTorch 
