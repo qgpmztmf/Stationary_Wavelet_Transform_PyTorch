@@ -4,6 +4,14 @@ This code provides support for computing the 2D stantionary discrete wavelet and
 
 ## How to use
 ```
+import pywt
+import torch
+
+import matplotlib.pyplot as plt
+import numpy as np
+import torch.nn as nn
+import torch.nn.functional as F
+
 J = 3
 wave = 'db1'
 mode='symmetric'
