@@ -3,7 +3,7 @@
 This code provides support for computing the 2D stantionary discrete wavelet and its inverses, and passing gradients through using pytorch.
 
 ## How to use
-```
+```python
 import pywt
 import torch
 
