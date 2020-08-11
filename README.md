@@ -24,3 +24,4 @@ plt.subplot(2,2,3), plt.imshow(xx[0,0], cmap='gray')
 plt.subplot(2,2,4), plt.imshow(xx[1,0], cmap='gray')
 ```
 
+![Results](https://octodex.github.com/images/yaktocat.png)
