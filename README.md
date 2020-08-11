@@ -1,5 +1,6 @@
 # Stationary Wavelet Transform PyTorch 
 
+## how to use
 ```
 J = 3
 wave = 'db1'
